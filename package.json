@@ -1,0 +1,11 @@
+{
+  "name": "commitlint-config-emoji",
+  "version": "1.0.0",
+  "files": [
+    "index.js"
+  ],
+  "repository": "ssh://git@github.com/tachiba/commitlint-config-emoji.git",
+  "author": "Takashi Chiba <work@tachiba.jp>",
+  "license": "MIT",
+  "private": true
+}
